@@ -6,6 +6,8 @@ later on getting text from from url and tokenizing each word using nltk.word_tok
 
 moving all extracted words into list by removing stopwords
 
+futher more perfom all data analysis task questions on extracted text positive words,negative words,polarity score,word count etc..
+
 
 
 
